@@ -1,0 +1,22 @@
+{
+  "name": "phoenixville-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrp": "pnpm install",
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "eslint": "^8.54.0",
+    "jest": "^29.7.0",
+    "rimraf": "^5.0.5",
+    "esbuild-plugin-replace": "^1.4.0",
+    "tsup": "^7.2.0",
+    "typescript": "^5.1.6"
+  }
+}

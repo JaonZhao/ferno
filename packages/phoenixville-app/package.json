@@ -1,0 +1,15 @@
+{
+  "name": "@phoenix/ville-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/esm/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "build": "rimraf dist && tsup src/index.ts",
+    "dev": "cross-env WATCH=true tsup src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
