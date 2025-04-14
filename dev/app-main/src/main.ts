@@ -7,11 +7,11 @@ import {
   registerMicroApps,
   start
 // @ts-ignore
-} from "@phenix/micro-shell";
+} from "@phoenix/ville";
 
 registerMicroApps([{
   name: "microApp1",
-  host: "http://localhost:8080/",
+  host: "http://localhost:8081/",
   activePath: "/vue2",
   el: "#root",
   props: {
@@ -19,7 +19,7 @@ registerMicroApps([{
   },
 }, {
   name: "microApp2",
-  host: "http://localhost:3002/",
+  host: "http://localhost:3000/",
   activePath: "/vite",
   el: "#root1",
 }]);

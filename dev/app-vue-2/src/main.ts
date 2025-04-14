@@ -3,7 +3,7 @@ import App from "./App.vue";
 import { createRouter } from "./router";
 import store from "./store";
 
-import { isInMicroShell, registerProvider } from "@phenix/micro-app";
+import { isInMicroShell, registerProvider } from "@phoenix/ville-app";
 
 Vue.config.productionTip = false;
 

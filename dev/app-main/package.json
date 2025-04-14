@@ -31,7 +31,7 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
-    "@phenix/micro-shell": "workspace:^1.0.0",
+    "@phoenix/ville": "workspace:^1.0.0",
     "vue": "^2.6.14",
     "vue-router": "3.0.7",
     "vuex": "^3.0.1"

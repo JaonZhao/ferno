@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import { isInMicroShell, registerProvider } from "@phenix/micro-app";
+import { isInMicroShell, registerProvider } from "@phoenix/ville-app";
 
 let app;
 if (isInMicroShell()) {
