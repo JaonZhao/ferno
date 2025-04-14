@@ -3,11 +3,7 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 
-import {
-  registerMicroApps,
-  start
-// @ts-ignore
-} from "@phoenix/ville";
+import { registerMicroApps, start } from "ferno-host";
 
 registerMicroApps([{
   name: "microApp1",

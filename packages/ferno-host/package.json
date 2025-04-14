@@ -1,6 +1,6 @@
 {
-  "name": "@phoenix/ville",
-  "version": "1.0.0",
+  "name": "ferno-host",
+  "version": "0.1.0",
   "description": "",
   "keywords": [],
   "files": ["dist"],

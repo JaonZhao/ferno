@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "vue": "3.2.31",
-    "@phoenix/ville-app": "workspace:^"
+    "ferno-remote": "workspace:^"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "2.3.1",

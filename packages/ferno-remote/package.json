@@ -1,6 +1,6 @@
 {
-  "name": "@phoenix/ville-app",
-  "version": "1.0.0",
+  "name": "ferno-remote",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",

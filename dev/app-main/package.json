@@ -31,7 +31,7 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
-    "@phoenix/ville": "workspace:^1.0.0",
+    "ferno-host": "workspace:^",
     "vue": "^2.6.14",
     "vue-router": "3.0.7",
     "vuex": "^3.0.1"

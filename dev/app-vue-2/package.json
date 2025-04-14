@@ -11,7 +11,7 @@
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2",
-    "@phoenix/ville-app": "workspace:^"
+    "ferno-remote": "workspace:^"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",

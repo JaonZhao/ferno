@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import { isInMicroShell, registerProvider } from "@phoenix/ville-app";
+import { isInMicroShell, registerProvider } from "ferno-remote";
 
 let app;
 if (isInMicroShell()) {
