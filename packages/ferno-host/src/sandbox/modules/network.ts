@@ -10,7 +10,8 @@ import {
 import { SandboxRuntime } from "..";
 
 export function networkModule(sandboxRuntime: SandboxRuntime) {
-  const baseUrl = sandboxRuntime.host;
+  // const baseUrl = sandboxRuntime.host;
+  const baseUrl = null;
   const wsSet = new Set<fakeWebSocket>();
   const xhrSet = new Set<fakeXMLHttpRequest>();
   const fetchSet = new Set<AbortController>();

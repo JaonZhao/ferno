@@ -1,4 +1,4 @@
-import { SandboxConfig, SandboxRuntime } from "..";
+import { SandboxRuntime } from "..";
 import { findTarget, hasOwn, isObject, makeMap, safari13Deal } from "../helper";
 import { sandboxMap } from "../injector";
 import { __documentBind__ } from "../symbolTypes";
